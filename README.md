@@ -61,7 +61,7 @@ And yeah… I’m sharpening my math game to tackle the hardcore formulas behind
 ## 💬 Let's Connect
 
 - GitHub: [@NathanielCarballo](https://github.com/NathanielCarballo)
-- LinkedIn: *(Insert your LinkedIn link if you'd like to add it)*
+- LinkedIn: [Nathaniel Carballo](https://www.linkedin.com/in/nathaniel-carballo-157399314/)
 - Personal Website: *(Coming soon?)*
 
 ---
