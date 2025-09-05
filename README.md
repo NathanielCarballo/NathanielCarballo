@@ -44,7 +44,6 @@ And yeah… I’m sharpening my math game to tackle the hardcore formulas behind
 - 🎮 Co-founder of **HexusCommand**, a game dev studio starting with mobile & planning PC games
 - 🧪 Building a **Pokémon roguelike** inspired by PokéRogue.net
 - 📊 Created a dynamic **employee assistance fund scoring tool** with Excel + Power Automate
-- 🛠️ Swapping subs and speakers in my 2018 Dodge Challenger R/T
 - 🧠 Building a **Personal OS in Obsidian** to hit the top 0.01% of productive minds
 
 ---
