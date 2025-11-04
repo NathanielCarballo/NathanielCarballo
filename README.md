@@ -1,68 +1,47 @@
-# 👋 Hey there, I'm Nate!
+# Hi, I'm Nate
 
-🎯 **Junior Systems Analyst** | 🛠️ **Performance Car Mechanic** | 🎓 **Software Engineer**  
-💡 Aspiring **Senior Data Scientist** / **Financial Engineer**  
-🌍 Based in the U.S. | 💻 Tech Enthusiast | 🎮 Gamer | 📸 Photographer
+I’m a full-stack/backend developer with a CS degree who likes shipping small, real features and iterating fast. My systems-analysis background means I’m good at turning fuzzy ideas into working software, documenting what matters, and keeping scope under control.
 
----
+## What I’m building
+- **RogueMon** — React + Flask roguelike prototype (battle loop, capture logic, API endpoints).  
+  Repo: https://github.com/NathanielCarballo/RogueMon
+- **loclhost (LocalHost Games)** — a tiny solo studio for cozy/retro experiments that are fair and never pay-to-win.
+- **CarAPI** — C#/.NET Web API for automotive domain data.  
+  Repo: https://github.com/NathanielCarballo/CarAPI
+- **DiscordBot** — Python utilities (translation, wiki lookup, dice).  
+  Repo: https://github.com/NathanielCarballo/DiscordBot
 
-## 🚀 About Me
+## Tech I use
+Python, JavaScript/TypeScript, C#, SQL  
+React, Flask, .NET Web API, Node  
+Postgres/SQLite, a bit of Docker (learning), CI with GitHub Actions  
+VS Code, Git/GitHub, Obsidian; I’ll prototype logic in Excel when speed matters
 
-I'm a multidisciplinary problem-solver blending tech with real-world performance. By day, I work as a Jr. Systems Analyst — analyzing, improving, and maintaining IT systems with precision. By night, I’m a car mechanic wrenching on high-performance machines or diving deep into code.
+## Highlights
+- Built a React + Flask game prototype demonstrating async flows, state management, and API design  
+- Designed a clean .NET Web API with separation of concerns  
+- Delivered a Python bot with practical integrations and utilities  
+- Outside code, I wrench on performance cars—great training for structured debugging
 
-Previously a Software Developer / Business Analyst, I bring both dev chops and business logic to the table. My background in software engineering gives me a solid foundation in SDLC, architecture, and full-stack development. But my journey doesn’t stop there — I’m leveling up hard toward becoming a senior data scientist or financial engineer.
+## What I’m looking for
+A full-stack/backend role where I can own features end-to-end, write clean, testable code, and keep learning every week.
 
----
+## Education
+B.S., Computer Science — Colorado Technical University (2022)
 
-## 🧠 What I'm Learning
+## Contact
+GitHub: @NathanielCarballo  
+LinkedIn: https://www.linkedin.com/in/nathaniel-carballo-157399314/  
+Personal site: coming soon
 
-- Front-End Development (React, Angular)
-- Back-End Development (Node.js, Django)
-- AI Engineering & Machine Learning
-- Software Development Life Cycle (SDLC)
-- Software Architecture & Design Patterns
-- System Analysis & Business Workflows
-- SQL & Database Design / Optimization
-
-And yeah… I’m sharpening my math game to tackle the hardcore formulas behind ML & financial modeling. No shame in the grind.
-
----
-
-## ⚙️ Tools & Tech Stack
-
-- **Languages**: Python, JavaScript, TypeScript, C#, SQL
-- **Frameworks**: React, Angular, Flask, Node.js
-- **Tools**: Git, GitHub, Power Automate, Obsidian, VSCode
-- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
-- **Cloud & DevOps**: Azure (learning), CI/CD pipelines, Docker (learning)
-- **Other**: Excel Wizards, Documentation Ninja, SDLC Lover
-
----
-
-## 🧩 Side Quests
-
-- 🎮 Co-founder of **HexusCommand**, a game dev studio starting with mobile & planning PC games
-- 🧪 Building a **Pokémon roguelike** inspired by PokéRogue.net
-- 📊 Created a dynamic **employee assistance fund scoring tool** with Excel + Power Automate
-- 🧠 Building a **Personal OS in Obsidian** to hit the top 0.01% of productive minds
+> “Never half-ass two things. Whole-ass one thing.” — Ron Swanson
 
 ---
 
-## 🔍 Goals for 2025 and Beyond
+<details>
+  <summary>Show profile stats</summary>
 
-- 🌐 Build & deploy full-stack apps from scratch
-- 📈 Master financial modeling & machine learning for fintech
-- 🧪 Create fun, experimental projects to push boundaries
-- 🧠 Keep leveling up with intent, purpose, and consistency
+  ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanielCarballo&show_icons=true)  
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielCarballo&layout=compact)  
 
----
-
-## 💬 Let's Connect
-
-- GitHub: [@NathanielCarballo](https://github.com/NathanielCarballo)
-- LinkedIn: [Nathaniel Carballo](https://www.linkedin.com/in/nathaniel-carballo-157399314/)
-- Personal Website: *(Coming soon?)*
-
----
-
-> *“Never half-ass two things. Whole-ass one thing.” – Ron Swanson*  
+</details>
