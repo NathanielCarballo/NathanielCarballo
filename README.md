@@ -6,10 +6,6 @@ I’m a full-stack/backend developer with a CS degree who likes shipping small, 
 - **RogueMon** — React + Flask roguelike prototype (battle loop, capture logic, API endpoints).  
   Repo: https://github.com/NathanielCarballo/RogueMon
 - **loclhost (LocalHost Games)** — a tiny solo studio for cozy/retro experiments that are fair and never pay-to-win.
-- **CarAPI** — C#/.NET Web API for automotive domain data.  
-  Repo: https://github.com/NathanielCarballo/CarAPI
-- **DiscordBot** — Python utilities (translation, wiki lookup, dice).  
-  Repo: https://github.com/NathanielCarballo/DiscordBot
 
 ## Tech I use
 Python, JavaScript/TypeScript, C#, SQL  
