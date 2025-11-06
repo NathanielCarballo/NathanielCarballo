@@ -1,4 +1,4 @@
-# Hi, I'm Nate
+# Hi, I'm Nate 👋
 
 I’m a full-stack/backend developer with a CS degree who likes shipping small, real features and iterating fast. My systems-analysis background means I’m good at turning fuzzy ideas into working software, documenting what matters, and keeping scope under control.
 
