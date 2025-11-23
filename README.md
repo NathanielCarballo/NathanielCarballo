@@ -9,16 +9,13 @@ without losing structure, documentation, or sanity.
 ## 🚀 Flagship Projects  
 
 These are my primary, actively developed projects — each one reflects real learning, iteration, and long-term potential.
-
+<!-- markdownlint-disable MD033 -->
 | Repo | Description | Tech Stack | Preview |
 |------|-------------|------------|---------|
-<!-- markdownlint-disable-next-line MD033 -->
 | **RogueMon** <br> ![Game](https://img.shields.io/badge/type-game-blue?style=flat-square) ![Fullstack](https://img.shields.io/badge/scope-fullstack-success?style=flat-square) | Full-stack roguelike: battle flow, capture logic, state management, wave progression | React · Flask · Python · REST API | [![RogueMon](https://github-readme-stats.vercel.app/api/pin/?username=NathanielCarballo&repo=RogueMon)](https://github.com/NathanielCarballo/RogueMon) |
-<!-- markdownlint-disable-next-line MD033 -->
 | **DiscordBot** <br> ![Bot](https://img.shields.io/badge/type-bot-purple?style=flat-square) ![Async](https://img.shields.io/badge/async-yes-informational?style=flat-square) ![API](https://img.shields.io/badge/api_integrations-yes-blue?style=flat-square) | Async bot with external API calls & multi-command expansion | Python · Discord.py | [![DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=NathanielCarballo&repo=DiscordBot)](https://github.com/NathanielCarballo/DiscordBot) |
-<!-- markdownlint-disable-next-line MD033 -->
-| **LocalHost Games Studio** <br> _(in progress)_ <br> ![Studio](https://img.shields.io/badge/scope-game_studio-orange?style=flat-square) | Solo indie studio exploring cozy & retro game mechanics — built as a space to experiment with prototypes and UX design | TBD | 🚧 Coming Soon |
-
+| **LocalHost Games Studio** _(in progress)_ <br> ![Studio](https://img.shields.io/badge/scope-game_studio-orange?style=flat-square) | Solo indie studio exploring cozy & retro game mechanics — built as a space to experiment with prototypes and UX design | TBD | 🚧 Coming Soon |
+<!-- markdownlint-enable MD033 -->
 > _“These aren’t demos — they’re systems in motion.”_
 
 ---
@@ -27,16 +24,13 @@ These are my primary, actively developed projects — each one reflects real lea
 
 These repos support learning, experimentation, and iteration.  
 They aren’t static — each one evolves as I do.
-
+<!-- markdownlint-disable MD033 -->
 | Repo | Purpose | Preview |
 |------|--------|---------|
-<!-- markdownlint-disable-next-line MD033 -->
 | **IdleMiner** <br> ![prototype](https://img.shields.io/badge/type-prototype-lightgrey?style=flat-square) | Incremental game logic & progression system experiment | [![IdleMiner](https://github-readme-stats.vercel.app/api/pin/?username=NathanielCarballo&repo=IdleMiner)](https://github.com/NathanielCarballo/IdleMiner) |
-<!-- markdownlint-disable-next-line MD033 -->
 | **Portfolio** <br> ![work_in_progress](https://img.shields.io/badge/status-planning-yellow?style=flat-square) | Developer showcase site that will act as project hub | _(repo coming soon)_ |
-<!-- markdownlint-disable-next-line MD033 -->
 | **Dev Forge** <br> ![learning](https://img.shields.io/badge/type-practice-orange?style=flat-square) ![refactor](https://img.shields.io/badge/focus-refactoring-green?style=flat-square) | Core fundamentals, refactor cycles, growth log | [![dev-forge](https://github-readme-stats.vercel.app/api/pin/?username=NathanielCarballo&repo=dev-forge)](https://github.com/NathanielCarballo/dev-forge) |
-
+<!-- markdownlint-enable MD033 -->
 ---
 
 ## 🧠 Tech & Tools I Use
