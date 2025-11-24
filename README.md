@@ -20,7 +20,7 @@ These are my primary, actively developed projects — each one reflects real lea
 
 ---
 
-## 🔧 Supporting Projects  
+## 🔧 Practice & Prototypes  
 
 These repos support learning, experimentation, and iteration.  
 They aren’t static — each one evolves as I do.
