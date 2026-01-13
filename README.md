@@ -62,12 +62,5 @@ They aren’t static — each one evolves as I do.
 
 ---
 
-## 📓 Fun Facts → Outside Code
-
-- I work on performance cars — which trains real-world debugging & logical diagnostics  
-- I treat software architecture as a **systems thinking** exercise  
-
----
-
   ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanielCarballo&show_icons=true)  
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielCarballo&layout=compact)
